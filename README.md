@@ -1,19 +1,19 @@
-## This project is an ecommerce-store created by Next.js
+## This project is an e-commerce-store created with Next.js
 
-### It contains product Pages with fashion and pet Products
+### It contains product pages with fashion and pet products
 
-On each single product page, user is able to input quantity, the total price will be calculated 
+On each product page, the user is able to input quantity and the total price will be calculated 
 
-  User is able to add choosed items to the cart page with click on "add Items" button on each item page, it will save those items as information cookies. After click on "to cartpage", user will be linked to the cart Page which shows all choosed items and shipment information and a "checkout" button. 
+  User is able to add the chosen items to the cart by clicking on the "add items" button on each item page, it will save those items as information cookies. After clicking on "to cartpage", the user will be linked to the cart page which shows all chosen items, shipment information and a "checkout" button. 
 
-  On cart page, user is able to update items quantity, or remove each item, total price and items cart will be automatically updated. 
+  On the cart page, the user is able to update the quantity of the items, or remove each item. The total price and items in the cart will be automatically updated. 
 
-  After click on "checkout" button, user will be linked to a thank you page.
+  After clicking on the "checkout" button, the user will be linked to a "thank you" page.
   
-  A shopping cart with the current number of cart items will be showed on all pages.
+  A shopping cart with the current number of cart items will be shown on all pages.
   
-### This Project is also using postgreSQL database which created with migrations sql for each items
+### This Project is also using a [PostgreSQL](https://www.postgresql.org) database which is created with migrations sql for each item
 
-### This Project contains Tests Pages which test button, content functions using cypress and jest
+### This Project contains test-pages which test button and content functions using [Cypress](https://www.cypress.io) and [Jest](https://www.jestjs.io)
 
-### There are also 2 pages writen in TypeScript 
+### There are also 2 pages written in [TypeScript](https://www.typescriptlang.org)
